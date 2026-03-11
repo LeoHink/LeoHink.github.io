@@ -1,36 +1,39 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Leonard Hinckeldey",
+    "label": "PhD Candidate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "l.hinckeldey@ed.ac.uk",
+    "phone": "",
+    "url": "",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Edinburgh",
+      "countryCode": "UK",
+      "region": "Scotland"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
+      "name": "Data Science Institute, London School of Economics and Political Science, London, UK",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "summary": "Research Assistant on the <a href='https://lse-dsi.github.io/genial/'>GENIAL</a> project.",
+      "highlights": []
+    },
+    {
+      "name": "Northern Data Group, Frankfurt, Germany",
+      "position": "Business Intelligence Analyst Intern",
+      "url": "",
       "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "endDate": "1933-01-01",
+      "summary": "Support for setting up first BI tool.",
+      "highlights": []
     }
   ],
   "volunteer": [
@@ -47,15 +50,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Edinburgh, Edinburgh, UK",
+      "location": "Edinburgh, UK",
+      "url": "",
+      "area": "Multi-agent learning (multi-agent RL, ad-hoc teamwork, embodied agents, etc.) in the context of human-AI collaboration.",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "London School of Economics and Political Science, London, UK",
+      "location": "London, UK",
+      "url": "",
+      "area": "Applied Social Data Science",
+      "studyType": "MSc",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
