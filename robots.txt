@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: LeoHink.github.io/al-folio/sitemap.xml
+Sitemap: LeoHink.github.io/leo-hinckeldey/sitemap.xml
