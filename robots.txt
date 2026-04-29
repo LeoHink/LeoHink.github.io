@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: LeoHink.github.io/sitemap.xml
+Sitemap: https://leohink.github.io/sitemap.xml
