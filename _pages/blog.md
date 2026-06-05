@@ -2,8 +2,9 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: false
-nav_order: 1
+nav: false # hidden until populated; set true to show in navbar
+nav_order: 4
+sitemap: false # excluded from sitemap until populated; remove when live
 pagination:
   enabled: true
   collection: posts

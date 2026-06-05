@@ -2,9 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+description: A selection of research projects.
+nav: false # hidden until populated; set true to show in navbar
 nav_order: 3
+sitemap: false # excluded from sitemap until populated; remove when live
 display_categories: [work, fun]
 horizontal: false
 ---
