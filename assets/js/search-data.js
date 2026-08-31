@@ -32,6 +32,9 @@ ninja.data = [{
           section: "News",},{id: "news-rocket-our-paper-assistax-a-multi-agent-hardware-accelerated-reinforcement-learning-benchmark-for-assistive-robotics-was-accepted-at-rlc-2026",
           title: ':rocket: Our Paper Assistax: A Multi-Agent Hardware-Accelerated Reinforcement Learning Benchmark for Assistive Robotics...',
           description: "",
+          section: "News",},{id: "news-trophy-assistax-received-an-outstanding-paper-award-at-rlc-2026",
+          title: ':trophy: Assistax, received an Outstanding Paper Award at RLC 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
