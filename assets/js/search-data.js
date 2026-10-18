@@ -36,7 +36,7 @@ ninja.data = [{
           title: ':trophy: Assistax, received an Outstanding Paper Award at RLC 2026!',
           description: "",
           section: "News",},{id: "news-page-facing-up-a-recent-really-cool-anthropic-paper-uses-assistax",
-          title: ':page_facing_up: A recent really cool Anthropic Paper, uses Assistax!',
+          title: ':page_facing_up: A recent really cool Anthropic Paper uses Assistax!',
           description: "",
           section: "News",},{
         id: 'social-email',
