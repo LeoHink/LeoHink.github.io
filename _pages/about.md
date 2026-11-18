@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-I'm a second-year PhD researcher driven by an overarching goal: to build autonomous agents in simulation that can collaborate with any human in the real world. My current focus is on developing reinforcement learning methods that are robust when coordinating with any potential partner — whether another AI agent or, ultimately, a human. This problem setting is known as _ad-hoc teamwork_, or sometimes _zero-shot coordination_.
+I'm a final year PhD researcher driven by an overarching goal: to build autonomous agents in simulation that can collaborate with any human in the real world. My current focus is on developing reinforcement learning methods that are robust when coordinating with any potential partner — whether another AI agent or, ultimately, a human. This problem setting is known as _ad-hoc teamwork_, or sometimes _zero-shot coordination_.
 
 My PhD is at the University of Edinburgh's [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk/), where I'm supervised by Prof. Subramanian Ramamoorthy. I'm also a member of [MARBLE](https://edinburgh-rl.github.io/) (Multi-Agent, Reinforcement, Behaviour and Learning), where I co-organise the [RL & Agents Reading Group](https://edinburgh-rl.github.io/reading-group). I receive additional support from the [Honda Research Institute](https://www.honda-ri.de/), with mentorship from Fan Zhang and Michael Gienger.
 
